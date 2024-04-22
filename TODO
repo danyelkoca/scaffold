@@ -1,0 +1,18 @@
+2. Make typography consistent across the app (Anchor, title, subtitle, text, etc)
+3. Add caption to images
+4. Add work dedicated pages per work
+
+Add work pages
+
+Later
+
+2. Add tracker for each click
+3. Change about page
+4. add jp and en
+2. Add IP address tracker blog/ housing blog
+3. Double check page titles
+4. Write article about BERT being the most populat Japanese text classification article
+
+NOTE!!
+1. Works and Blog comments are written to same db with "id" field. Ensure that no work and blog have the same ID!!!
+Add work and blog identifier: TYPE
