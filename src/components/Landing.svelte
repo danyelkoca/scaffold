@@ -120,12 +120,22 @@
 			>
 		</div>
 	</div>
-
-	<div class="flex justify-center flex-row items-center">
-		<span class="mr-1">This website scaffold was made by </span>
-		<a target="_blank" class="text-blue-500 font-bold" href="https://danyelkoca.com/">
-			Danyel Koca</a
-		>
-		<span class="ml-1">in 2024 Spring.</span>
+	<div class="flex flex-col gap-2">
+		<div class="flex justify-center flex-row items-center">
+			<span class="mr-1">This website scaffold was made by </span>
+			<a target="_blank" class="text-blue-500 font-bold" href="https://danyelkoca.com/"
+				>Danyel Koca</a
+			>
+			<span class="ml-1">in 2024 April.</span>
+		</div>
+		<div class="flex justify-center flex-row items-center">
+			<span class="mr-1">Find the code </span>
+			<a
+				target="_blank"
+				class="text-blue-500 font-bold"
+				href="https://github.com/danyelkoca/scaffold">here</a
+			>
+			<span class="ml-1">on GitHub.</span>
+		</div>
 	</div>
 </div>
